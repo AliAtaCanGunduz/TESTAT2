@@ -1,0 +1,1138 @@
+﻿   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (C:/qttt/6.9.1/msvc2022_64/bin/qmake)
+   Qt: 6.9.1
+  moc Versuch9.h
+  Motorway.cpp
+  Stateroad.cpp
+  Street.cpp
+  Versuch9.cpp
+  abstractmap.cpp
+  city.cpp
+  dijkstra.cpp
+  main.cpp
+  map.cpp
+  mapio.cpp
+  mapiofileinput.cpp
+  mapionrw.cpp
+  smallTown.cpp
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x3e0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x47a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x489 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x5ff konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x617 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x8b9 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x9b1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x9c9 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0x9d8 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0xb7c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0xd35 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0xd4d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0xd5b konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\mapiofileinput.cpp(1,1): warning C4828: Dosyada 0xd68 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Motorway.cpp(1,1): warning C4828: Dosyada 0x64 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.cpp(1,1): warning C4828: Dosyada 0x65 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.cpp(1,1): warning C4828: Dosyada 0xd9 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.cpp(1,1): warning C4828: Dosyada 0x72 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.cpp(1,1): warning C4828: Dosyada 0x30b konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.cpp(1,1): warning C4828: Dosyada 0xed konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.cpp(1,1): warning C4828: Dosyada 0x368 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Motorway.h(1,1): warning C4828: Dosyada 0x64 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x67 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.cpp(1,1): warning C4828: Dosyada 0x3be konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.cpp(1,1): warning C4828: Dosyada 0x736 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Motorway.h(1,1): warning C4828: Dosyada 0xcb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x80 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.cpp(1,1): warning C4828: Dosyada 0x749 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0xd2 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x65 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x12c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0xf0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x1dd konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x137 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x252 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x181 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x18e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x1cc konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x1d7 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x1fb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x212 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x35a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x361 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x3d5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x3e0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x44b konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x468 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x46e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x498 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x4c9 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x4ef konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x584 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x593 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x5bc konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x5cd konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x5da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x65a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x716 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x71e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x74f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x7a7 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x7ae konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x7e0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x848 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x880 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Street.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Motorway.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('smallTown.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Stateroad.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('abstractmap.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('city.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapio.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('dijkstra.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Motorway.h(1,1): warning C4828: Dosyada 0x64 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Motorway.h(1,1): warning C4828: Dosyada 0xcb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x67 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x80 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0xd2 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x12c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('map.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapionrw.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\bigtown.h(1,1): warning C4828: Dosyada 0x5f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\bigtown.h(1,1): warning C4828: Dosyada 0x71 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\bigtown.h(1,1): warning C4828: Dosyada 0x1a6 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x65 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x1dd konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x252 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\motorway.h(1,1): warning C4828: Dosyada 0x64 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\motorway.h(1,1): warning C4828: Dosyada 0xcb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\stateroad.h(1,1): warning C4828: Dosyada 0x67 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\stateroad.h(1,1): warning C4828: Dosyada 0x80 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\stateroad.h(1,1): warning C4828: Dosyada 0xd2 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\stateroad.h(1,1): warning C4828: Dosyada 0x12c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('mapiofileinput.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0xf0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x137 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x181 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x18e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x1cc konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x1d7 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x1fb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x212 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x35a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x361 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x3d5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x3e0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x44b konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x468 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x46e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x498 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x4c9 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x4ef konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x584 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x593 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x5bc konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x5cd konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x5da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x65a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x716 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x71e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x74f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x7a7 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x7ae konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x7e0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x848 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\map.h(1,1): warning C4828: Dosyada 0x880 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x86 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x242 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x290 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\city.h(1,1): warning C4828: Dosyada 0x2da konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x5c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x6f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x82 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xc5 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xd1 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x183 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x1f4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x25d konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x268 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x309 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x31c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x32e konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x381 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x392 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x48a konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Street.h(1,1): warning C4828: Dosyada 0x491 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Motorway.h(1,1): warning C4828: Dosyada 0x64 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Motorway.h(1,1): warning C4828: Dosyada 0xcb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x67 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x80 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0xd2 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\Stateroad.h(1,1): warning C4828: Dosyada 0x12c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0xc0 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0xcb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0xdd konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x1a4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x1ae konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x25b konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x270 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x2bb konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x2cf konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x30b konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x316 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x320 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\dialogaddstreet.h(1,1): warning C4828: Dosyada 0x3d3 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\bigtown.h(1,1): warning C4828: Dosyada 0x5f konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\bigtown.h(1,1): warning C4828: Dosyada 0x71 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\bigtown.h(1,1): warning C4828: Dosyada 0x1a6 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x65 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0xe4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x1dd konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\smalltown.h(1,1): warning C4828: Dosyada 0x252 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('Versuch9.cpp' kaynak dosyası derleniyor)
+  
+  moc_Versuch9.cpp
+  Versuch09.vcxproj -> C:\Users\Ali Ata Can Gunduz\Desktop\Versuch9yedek - Kopya\x64\Debug\Versuch09.exe
