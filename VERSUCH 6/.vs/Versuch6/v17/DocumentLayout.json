@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\TESTAT_2\\VERSUCH 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159517D0-5CE3-AEDC-A389-63E0EB8DE19C}|Versuch6.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\TESTAT_2\\VERSUCH 6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{159517D0-5CE3-AEDC-A389-63E0EB8DE19C}|Versuch6.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159517D0-5CE3-AEDC-A389-63E0EB8DE19C}|Versuch6.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\TESTAT_2\\VERSUCH 6\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{159517D0-5CE3-AEDC-A389-63E0EB8DE19C}|Versuch6.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\TESTAT_2\\VERSUCH 6\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\TESTAT_2\\VERSUCH 6\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T11:07:14.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\TESTAT_2\\VERSUCH 6\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\TESTAT_2\\VERSUCH 6\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T11:07:10.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
